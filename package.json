@@ -1,11 +1,11 @@
 {
 	"private": true,
 	"name": "bigquery-runner",
-	"displayName": "BigQuery Runner2",
-	"description": "An extension to query BigQuery directly and view the results in VSCode.",
+	"displayName": "BigQuery Runner with Compiler.",
+	"description": "An extension to query BigQuery directly and view the results in VSCode. It uses CPP to preprocess #include \"filename\" directives.",
 	"version": "2.0.0",
 	"license": "Apache-2",
-	"publisher": "dienes",
+	"publisher": "innovite-ch",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/innovite-ch/bigquery-runner.git"
