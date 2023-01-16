@@ -428,7 +428,7 @@ Maximum number of rows to retrieve per page for display in the viewer. If a numb
 
 |Type|Default|
 |---|---|
-|string|"/home/dienes/coding/bigquery-runner/"|
+|string|"./"|
 
 The root for the BigQuery libraries. Includes are relative to this root.
 

@@ -369,7 +369,7 @@
 				},
 				"bigqueryRunner.compiler.libsRoot": {
 					"type": "string",
-					"default": "/home/dienes/coding/bigquery-runner/",
+					"default": "./",
 					"description": "The root for the BigQuery libraries. Includes are relative to this root."
 				}
 			}
